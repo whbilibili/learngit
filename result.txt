@@ -1,0 +1,7 @@
+步骤：
+1.clone远程库：git clone git@github.com:whbilibili/learngit.git
+2.修改
+3.git add .
+4.git commit -m "commit"
+5.git push -u origin master     
+注意：一次的push不要超过100MB
